@@ -10,7 +10,7 @@ Para encender el VIEW, presiona y mantén presionado el botón de encendido `(#1
 
 ### Apagado
 
-Para apagar en VIEW, presiona y mantén presionado el botón de encendido `(#1)` durante 2 segundos. Aparecerá un aviso de confirmación en la pantalla. Gira la perilla y selecciona “Sí” y presiona la perilla o el botón de aceptar `(#5)` para apgar.
+Para apagar en VIEW, presiona y mantén presionado el botón de encendido `(#1)` durante 2 segundos. Aparecerá un aviso de confirmación en la pantalla. Gira la perilla y selecciona “Sí” y presiona la perilla o el botón de aceptar `(#5)` para apagar.
 
 En caso de que el VIEW no responda, puede forzarse el apagado manteniendo apretado el botón de encendido `(#1)` durante 15 segundos. Después puede encenderse normalmente presionando el botón de Energía de nuevo durante 2 segundos.
 
