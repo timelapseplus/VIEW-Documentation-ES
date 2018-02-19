@@ -22,7 +22,7 @@ En el momento de hacer el post-procesamiento con LRTimelapse, está bien ajustar
 
 LRTimelapse funciona con Lightroom, además de con Bridge/ACR.
 
-# Utilizar XMPs generados en el VIEW
+## Utilizar XMPs generados en el VIEW
 
 El VIEW puede generar archivos XMP para ofrecer los datos de corrección de exposición para que Lightroom elimine los parpadeos. Este método funciona con Lightroom, además de con Bridge/ARCR.
 

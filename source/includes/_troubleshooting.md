@@ -1,4 +1,4 @@
-# Solución de problemas y soporte
+# Soluciónes y soporte
 
 Esperamos que tu experiencia con el VIEW sea sencilla y sin problemas, pero en caso de que hubiera algún problema, no te preocupes -- ¡estamos aquí para ayudarte! Reportar los problemas nos ayuda a mejorar los productos para todo el mundo, por lo que contamos con diversos sistemas para ayudar con el soporte.
 
