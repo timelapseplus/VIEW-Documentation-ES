@@ -1,4 +1,4 @@
-﻿# Post-procesamiento
+# Post-procesamiento
 
 Conforme el VIEW cambia la exposición para el proceso de ramping, los cambios son hechos en 1/3 de paso, debido a que no se pueden hacer cambios más sutiles en la cámara. Esto genera diferencias de iluminación en el time-lapse que pueden percibirse como parpadeos y debe corregirse en el post-procesamiento. Hay diversas formas de hacer esto, pero la mayoría requiere el uso del programa Lightroom o Photoshop de la Suite de Adobe. En el futuro, planeo agregar un soporte de Darktable. Hemos recibido muchas solicitudes para el Capture One, pero debido a su soporte limitado para la integración de terceras partes, probablemente esto no sea posible. 
 
