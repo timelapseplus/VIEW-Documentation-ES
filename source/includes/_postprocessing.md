@@ -33,6 +33,7 @@ Si las imágenes fueron guardadas en la cámara (Destino = “Cámara”), enton
 Para recuperar los XMPs para los clips que fueron guardados por la cámara, dirígete a Clips de Time-lapse, selecciona el clip, presiona el menú (abajo a la derecha) y selecciona “Escribir XMPs en la tarjeta SD”. Este paso es necesario incluso si había una tarjeta SD presente en el VIEW mientras se grababa con la cámara.
 
 Para los cambios en las transiciones con respecto al balance de blancos u otros parámetros de Lightroom (sin embargo, considera que no se puede cambiar la exposición en este método), prueba el complemento de “Soporte de Timelapse” de Jeffrey Friedl: <http://regex.info/blog/lightroom-goodies/timelapse-support>
+
 ## Eliminar el parpadeo durante el render
 
 Esto no es lo ideal, pero si prefieres procesar las fotos en Capture One u otro programa diferente a Lightroom, la eliminación del parpadeo puede hacerse sobre las imágenes resultantes después de la conversión inicial de RAW. Las herramientas para hacer esto incluyen GBDeflicker, TLDF y Sequence. 
