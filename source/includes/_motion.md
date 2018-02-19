@@ -2,7 +2,7 @@
 
 El VIEW puede sincronizar con la mayoría de los sistemas de control de movimiento para la funcionalidad de disparar-moverse-disparar. Adicionalmente, cuenta con un soporte de programación de movimiento completo para el controlador de pasos Dynamic Perception NMX (a través de Bluetooth o USB) y Syrp Genie Minie (a través de Bluetooth) y se planifica que en el futuro se incorporará el soporte para eMotimo Spectrum (a través del serial AUX2) y Kessler Second Shooter (probablemente).
 
-# Sincronización de AUX de salida
+## Sincronización de AUX de salida
 
 Para activar un sistema de movimiento, para que se mueva después de cada disparo, conecta un cable TRS de 2,5 mm del AUX2 en el VIEW con el puerto de entrada de sincronización en el sistema de movimiento. El VIEW enviará 200ms de pulso “cerrado” después de cada disparo. No se requiere ninguna configuración especial en VIEW. El sistema de movimiento necesita el soporte de un intervalómetro externo y normalmente debe estar en una modalidad especial (p.e., modalidad “esclava” para el NMX”, “intervalómetro externo” para eMotimo TB3).
 

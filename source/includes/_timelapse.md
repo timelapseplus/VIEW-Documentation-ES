@@ -101,7 +101,7 @@ Opción | Descripción
 [tiempo en segundos] | Longitud de intervalo en segundos. Este es el tiempo que transcurre desde el inicio de un marco hasta el inicio del siguiente
 
 
-# Opciones de Ramping
+## Opciones de Ramping
 
 Esta opción solamente se muestra cuando la Modalidad de Timelapse está en “Auto Ramping”.
 
