@@ -51,7 +51,7 @@ Nota: algunos dispositivos VIEW no se conectarán con la Nikon D800/D800E hasta 
 
 ## Panasonic
 
-Asegúrate de que el modo USB de la cámara esté configurado en PC Tether, modo manual, archivos RAW, y toma soltera.  Con el GH5, GH5S, y G9, firmware v1.8-beta23 o mas nuevo es necesario en el VIEW. 
+Asegúrate de que el modo USB de la cámara esté configurado en PC Tether (con el GH3 y GH4 use "Remote Control (PTP)"), modo manual, archivos RAW, y toma soltera.  Con el GH5, GH5S, y G9, firmware v1.8-beta23 o mas nuevo es necesario en el VIEW. 
 
 ## Fuji X
 
