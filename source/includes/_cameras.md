@@ -51,13 +51,13 @@ Nota: algunos dispositivos VIEW no se conectarán con la Nikon D800/D800E hasta 
 
 ## Panasonic
 
-Asegúrate de que el modo USB de la cámara esté configurado en PTP 
+Asegúrate de que el modo USB de la cámara esté configurado en PC Tether, modo manual, archivos RAW, y toma soltera.  Con el GH5, GH5S, y G9, firmware v1.8-beta23 o mas nuevo es necesario en el VIEW. 
 
 ## Fuji X
 
 Nota: El soporte Fuji requiere la versión v1.8-beta13 o más nueva del firmware para el VIEW.  Ha sido probado con la X-T1 y X-T2, pero otras de la serie X deberían funcionar siempre y cuando sean compatibles con el plugin Pro Tethering para Lightroom.  Asegúrate de que el modo USB en la cámara esté configurado en PC Automático. El ISO debe ser ajustado manualmente a 200 o más alto. 
 
-Algunas cámaras Fuji permiten la opción de carga mientras se usa el puerto USB. En este caso, la batería delVIEW se agotará rápidamente, por lo que se recomienda poder externo para el VIEW. En pruebas con un VIEW  y una X-T2 con cargas completas, fue posible lograr 1200 cuadros en 4 horas antes de que el VIEW se quedara sin batería (la cámara todavía tenía batería ya que estaba siendo cargada por el VIEW). El VIEW no puede proveer suficiente poder a la cámara para que se cargue mientras se está utilizando, pero generalmente extenderá la batería de la segunda. Por lo que si la batería de la cámara está completa y tienes una fuente de poder USB conectada al VIEW (como una estación de carga de teléfonos celulares), la combinación total debería durar al menos 12 horas antes de que la batería de la cámara se descargue lentamente. 
+Algunas cámaras Fuji permiten la opción de carga mientras se usa el puerto USB. En este caso, la batería del VIEW se agotará rápidamente, por lo que se recomienda poder externo para el VIEW. En pruebas con un VIEW  y una X-T2 con cargas completas, fue posible lograr 1200 cuadros en 4 horas antes de que el VIEW se quedara sin batería (la cámara todavía tenía batería ya que estaba siendo cargada por el VIEW). El VIEW no puede proveer suficiente poder a la cámara para que se cargue mientras se está utilizando, pero generalmente extenderá la batería de la segunda. Por lo que si la batería de la cámara está completa y tienes una fuente de poder USB conectada al VIEW (como una estación de carga de teléfonos celulares), la combinación total debería durar al menos 12 horas antes de que la batería de la cámara se descargue lentamente. 
  
 ## Resumen de Soporte de Cámaras 
 
