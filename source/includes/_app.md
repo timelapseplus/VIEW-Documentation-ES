@@ -36,12 +36,13 @@ Para configurar la interfaz de la aplicación con WiFi Local, configura lo sigui
 
 Posteriormente, en el dispositivo móvil:
 
-1. Conectar al punto de acceso WiFi TL+VIEW.
-2. Abre un buscador web y dirígete a 10.0.0.1.
+1. Conectar al punto de acceso WiFi TL+VIEW*
+2. Abre un buscador web y dirígete a 10.0.0.1
 
 Eso es todo – la aplicación se cargará en el buscador. En un iPhone, puedes guardarla en la pantalla de inicio para un uso a conveniencia como una aplicación de pantalla completa. 
 
 El nombre del punto de acceso incorporado puede cambiarse en Configuración -> Conexiones Inalámbricas -> Configurar nombre del Punto de Acceso Incorporado.
+* Nota: Con el firmware v1.8 y mas nuevo, se requira un codigo.  Por defecto es "timelapse+", pero se puede configurar en Configuración -> Conexiones Inalámbricas -> Configurar codigo del Punto de Acceso Incorporado
 
 ## Método de Internet Remoto
 
