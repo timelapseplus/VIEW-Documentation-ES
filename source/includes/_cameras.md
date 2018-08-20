@@ -58,7 +58,12 @@ Asegúrate de que el modo USB de la cámara esté configurado en PC Tether (con 
 Nota: El soporte Fuji requiere la versión v1.8-beta13 o más nueva del firmware para el VIEW.  Ha sido probado con la X-T1 y X-T2, pero otras de la serie X deberían funcionar siempre y cuando sean compatibles con el plugin Pro Tethering para Lightroom.  Asegúrate de que el modo USB en la cámara esté configurado en PC Automático. El ISO debe ser ajustado manualmente a 200 o más alto. 
 
 Algunas cámaras Fuji permiten la opción de carga mientras se usa el puerto USB. En este caso, la batería del VIEW se agotará rápidamente, por lo que se recomienda poder externo para el VIEW. En pruebas con un VIEW  y una X-T2 con cargas completas, fue posible lograr 1200 cuadros en 4 horas antes de que el VIEW se quedara sin batería (la cámara todavía tenía batería ya que estaba siendo cargada por el VIEW). El VIEW no puede proveer suficiente poder a la cámara para que se cargue mientras se está utilizando, pero generalmente extenderá la batería de la segunda. Por lo que si la batería de la cámara está completa y tienes una fuente de poder USB conectada al VIEW (como una estación de carga de teléfonos celulares), la combinación total debería durar al menos 12 horas antes de que la batería de la cámara se descargue lentamente. 
- 
+
+## Olympus OM-D
+
+Note: El soporte Olympus requiere la versión v1.8-44 o más nueva del firmware para el VIEW.  Ha sido probado con la E-M1, E-M1 II, y E-M5 II.  Asegúrate de que el modo USB en la cámara esté configurado en la selección con el imagen de la camera y computadora.  El ISO debe ser ajustado manualmente a 200 o más alto, y deshabilita reducción de ruido proveniente de una exposición alta.
+
+
 ## Resumen de Soporte de Cámaras 
 
 Cuerpo de la cámara | Auto Ramping | Ramping de enfoque | Liveview | Intervalo mínimo de ramping
@@ -73,3 +78,6 @@ Panasonic GH3, GH4 | Sí          | No     | No | 4-7s
 Panasonic GH5, GH5S, G9 | Sí | No     | Sí | 4-5s
 Fuji X-T1 | Sí | No | Sí | 5-8s
 Fuji X-T2 | Sí | Sí | Sí | 3-4s
+Fuji X-H1 | Sí | Sí | Sí | 3-4s
+Fuji X-Pro2 | Sí | Sí | Sí | 3-4s
+Olympus OM-D | Sí | Sí | Sí | 3-4s
